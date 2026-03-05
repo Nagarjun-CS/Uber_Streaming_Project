@@ -1,61 +1,61 @@
 [
   {
     "city_id": 1,
-    "city": "New city New York",
+    "city": "Old New York",
     "state": "NY",
     "region": "Northeast"
   },
   {
     "city_id": 2,
-    "city": "New city Los Angelas",
+    "city": "Old Los Angelas",
     "state": "CA",
     "region": "West"
   },
   {
     "city_id": 3,
-    "city": "New city Chicago",
+    "city": "Old Chicago",
     "state": "IL",
     "region": "Midwest"
   },
   {
     "city_id": 4,
-    "city": "New city Houston",
+    "city": "Old Houston",
     "state": "TX",
     "region": "South"
   },
   {
     "city_id": 5,
-    "city": "New city Phoenix",
+    "city": "Old Phoenix",
     "state": "AZ",
     "region": "Southwest"
   },
   {
     "city_id": 6,
-    "city": "New city Philadelphia",
+    "city": "Old Philadelphia",
     "state": "PA",
     "region": "Northeast"
   },
   {
     "city_id": 7,
-    "city": "New city San Antonio",
+    "city": "Old San Antonio",
     "state": "TX",
     "region": "South"
   },
   {
     "city_id": 8,
-    "city": "New city San Diego",
+    "city": "Old San Diego",
     "state": "CA",
     "region": "West"
   },
   {
     "city_id": 9,
-    "city": "New city Dallas",
+    "city": "Old Dallas",
     "state": "TX",
     "region": "South"
   },
   {
     "city_id": 10,
-    "city": "New city San Jose",
+    "city": "Old San Jose",
     "state": "CA",
     "region": "West"
   }
