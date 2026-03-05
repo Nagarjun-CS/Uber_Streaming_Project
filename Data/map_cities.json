@@ -1,72 +1,72 @@
 [
   {
     "city_id": 1,
-    "city": "New New York",
+    "city": "Old New York",
     "state": "NY",
     "region": "Northeast",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 2,
-    "city": "New Los Angelas",
+    "city": "Old Los Angelas",
     "state": "CA",
     "region": "West",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 3,
-    "city": "New Chicago",
+    "city": "Old Chicago",
     "state": "IL",
     "region": "Midwest",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 4,
-    "city": "New Houston",
+    "city": "Old Houston",
     "state": "TX",
     "region": "South",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 5,
-    "city": "New Phoenix",
+    "city": "Old Phoenix",
     "state": "AZ",
     "region": "Southwest",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 6,
-    "city": "New Philadelphia",
+    "city": "Old Philadelphia",
     "state": "PA",
     "region": "Northeast",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 7,
-    "city": "New San Antonio",
+    "city": "Old San Antonio",
     "state": "TX",
     "region": "South",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 8,
-    "city": "New San Diego",
+    "city": "Old San Diego",
     "state": "CA",
     "region": "West",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 9,
-    "city": "New Dallas",
+    "city": "Old Dallas",
     "state": "TX",
     "region": "South",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   },
   {
     "city_id": 10,
-    "city": "New San Jose",
+    "city": "Old San Jose",
     "state": "CA",
     "region": "West",
-    "updated_timestamp": "2026-03-05T20:35:00.963+00:00"
+    "updated_timestamp": "2026-03-05T20:37:00.963+00:00"
   }
 ]
